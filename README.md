@@ -1,2 +1,6 @@
 # ASSIGNMENT-1-PYTHON-TUTE-DUDE
 ASSIGNMENT-1  OF PYTHON COURSE BY TUTEDUDE 
+
+ON BASIC PYTHON CONCEPT
+TASK1-1:Perform Basic Mathematical Operations
+TASK2-2:Create a Personalized Greeting
